@@ -5,6 +5,7 @@ $db_user = "devopscilsy";
 $db_pass = "1234567890";
 $db_name = "dbsosmed";
 // asdda
+//test
 
 try {    
     //create PDO connection 
