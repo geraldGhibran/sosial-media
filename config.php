@@ -6,6 +6,7 @@ $db_pass = "1234567890";
 $db_name = "dbsosmed";
 // asdda
 //test
+//Yhhhh ini commecnt
 
 try {    
     //create PDO connection 
