@@ -1,8 +1,8 @@
 <?php
 
-$db_host = "localhost";
-$db_user = "devopscilsy";
-$db_pass = "1234567890";
+$db_host = "dbpesbuk.cuwwjpy0lh65.ap-southeast-1.rds.amazonaws.com";
+$db_user = "root";
+$db_pass = "masukaja";
 $db_name = "dbsosmed";
 // asdda
 //test
