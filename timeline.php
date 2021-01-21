@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Pesbuk Timeline</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://d1qkwo840a3ldd.cloudfront.net/css/bootstrap.min.css" />
 </head>
 <body class="bg-light">
 
@@ -20,7 +20,7 @@
             <div class="card">
                 <div class="card-body text-center">
 
-                    <img class="img img-responsive rounded-circle mb-3" width="160" src="img/<?php echo $_SESSION['user']['photo'] ?>" />
+                    <img class="img img-responsive rounded-circle mb-3" width="160" src="https://d1qkwo840a3ldd.cloudfront.net/img/<?php echo $_SESSION['user']['photo'] ?>" />
                     
                     <h3><?php echo  $_SESSION["user"]["name"] ?></h3>
                     <p><?php echo $_SESSION["user"]["email"] ?></p>
