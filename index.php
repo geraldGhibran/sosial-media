@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Pesbuk</title>
 
-     <link rel="stylesheet" href="css/bootstrap.min.css" />
+     <link rel="stylesheet" href="https://d1qkwo840a3ldd.cloudfront.net/css/bootstrap.min.css" />
 </head>
 <body class="bg-light">
     <header>
@@ -30,7 +30,7 @@
         <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img img-responsive" src="img/connect.png" />
+                        <img class="img img-responsive" src="https://d1qkwo840a3ldd.cloudfront.net/img/connect.png" />
                     </div>
                 </div>
             </div>

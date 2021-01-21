@@ -43,7 +43,7 @@ if(isset($_POST['login'])){
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Login Pesbuk</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://d1qkwo840a3ldd.cloudfront.net/css/bootstrap.min.css" />
 </head>
 <body class="bg-light">
 
