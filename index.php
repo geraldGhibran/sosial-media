@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di website Gawai Studio, Berikut hostname anda => <?php echo gethostname(); ?></h1>
+                        <h1>Selamat datang di website Cilsy, Berikut hostname anda => <?php echo gethostname(); ?></h1>
                         <p>Bergabunglah bersama jutaan orang lainnya...</p>
                     </div>
                     <div class="col-md-4">
