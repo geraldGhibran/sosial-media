@@ -1,6 +1,6 @@
 <?php
 
-$db_host = "dbpesbuk.cuwwjpy0lh65.ap-southeast-1.rds.amazonaws.com";
+$db_host = "10.0.1.126";
 $db_user = "root";
 $db_pass = "masukaja";
 $db_name = "dbsosmed";
