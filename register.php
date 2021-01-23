@@ -1,6 +1,6 @@
 <?php
 
-require_once("config.php");
+require_once("config2.php");
 
 if(isset($_POST['register'])){
 
